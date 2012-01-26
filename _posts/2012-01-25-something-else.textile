@@ -1,0 +1,6 @@
+---
+layout: post
+title: this is another test post
+---
+
+Here are some words.
