@@ -3,12 +3,24 @@
  <title>Alex Payne</title>
  <link href="http://al3x.net/atom.xml" rel="self"/>
  <link href="http://al3x.net/"/>
- <updated>2012-01-25T23:24:06-06:00</updated>
+ <updated>2012-01-26T10:14:46-06:00</updated>
  <id>http://al3x.net/</id>
  <author>
    <name>Alex Payne</name>
    <email>al3x@al3x.net</email>
  </author>
+ 
+ <entry>
+   <title>this is another test post</title>
+   <link href="http://al3x.net/2012/01/25/something-else.html"/>
+   <updated>2012-01-25T00:00:00-06:00</updated>
+   <id>http://al3x.net/2012/01/25/something-else</id>
+   <content type="html">&lt;p&gt;Here are some words.&lt;/p&gt;</content>
+   <author>
+     <name>Alex Payne</name>
+     <uri>http://al3x.net/about.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>This is a title</title>
