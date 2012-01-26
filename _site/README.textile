@@ -1,6 +1,6 @@
 h1. About
 
-"My weblog":http://al3x.net, now hosted on GitHub. Uses "Jekyll":http://github.com/mojombo/jekyll/tree/master for static site generation.
+A fork of Alex Payne's Jekyll theme.
 
 h1. License
 
