@@ -1,0 +1,11 @@
+---
+layout: post
+title: This is a title
+---
+
+h1. {{ page.title }}
+
+this is some text
+as is this
+here is some more
+interesting
