@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Alex Payne</title>
+ <link href="http://al3x.net/atom.xml" rel="self"/>
+ <link href="http://al3x.net/"/>
+ <updated>2012-01-25T23:24:06-06:00</updated>
+ <id>http://al3x.net/</id>
+ <author>
+   <name>Alex Payne</name>
+   <email>al3x@al3x.net</email>
+ </author>
+ 
+ <entry>
+   <title>This is a title</title>
+   <link href="http://al3x.net/2012/01/25/something.html"/>
+   <updated>2012-01-25T00:00:00-06:00</updated>
+   <id>http://al3x.net/2012/01/25/something</id>
+   <content type="html">&lt;h1&gt;This is a title&lt;/h1&gt;
+&lt;p&gt;this is some text&lt;br /&gt;
+as is this&lt;br /&gt;
+here is some more&lt;br /&gt;
+interesting&lt;/p&gt;</content>
+   <author>
+     <name>Alex Payne</name>
+     <uri>http://al3x.net/about.html</uri>
+   </author>
+ </entry>
+ 
+</feed>
