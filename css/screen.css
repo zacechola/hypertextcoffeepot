@@ -9,7 +9,7 @@ body {
   color: #222;
   font-family: 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
-  margin: 20px auto 18px 25%;
+  margin: 20px 10%;
 }
 
 a:link {
@@ -55,7 +55,7 @@ h1 {
 
 h2 {
   font-size: 24px;
-  line-height: 22px;
+  line-height: 26px;
   margin-bottom: 18px;
 }
 
@@ -78,16 +78,6 @@ ul { list-style-type: square; }
 header, footer, nav, article { display: block; }
 
 /* classes */
-.book-cover {
-  float: left;
-  margin-right: 10px;
-}
-
-.fusiontext a, .fusiontext a:hover, .fusiontext a:visited {
-  color: #222;
-  text-decoration: none;
-}
-
 .post {
   border-bottom: 1px solid #222;
   margin-bottom: 20px;
@@ -113,15 +103,6 @@ header, footer, nav, article { display: block; }
   font-size: 14pt;
 }
 
-#fusionad {
-  float: right;
-  margin: 75px 200px 0 10px;
-  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-  font-size: 10pt;
-  text-align: center;
-  width: 150px;
-}
-
 #intro {
   color: #666;
   font-size: 22pt;
@@ -140,7 +121,7 @@ header, footer, nav, article { display: block; }
 }
 
 #wrapper {
-  max-width: 40em;
-  min-width: 30em;
-  width: 32em;
+  max-width: 90%;
+  min-width: 33.33333%;
+  width: 90%;
 }
