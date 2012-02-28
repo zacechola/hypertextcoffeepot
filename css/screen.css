@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #edf1f3;
+  background-color: #fff;
   color: #222;
   font-family: 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
@@ -13,15 +13,14 @@ body {
 }
 
 a:link {
-  color: #336699;
+  color: #e03862;
   text-decoration: none;
 }
 a:visited {
-  color: #660000;
+  color: #f6fc81;
   text-decoration: none;
 }
 a:hover {
-  color: #336699;
   text-decoration: underline;
 }
 
@@ -104,13 +103,13 @@ header, footer, nav, article { display: block; }
 }
 
 #intro {
-  color: #666;
+  color: #A4A190;
   font-size: 22pt;
   margin-bottom: 24pt;
   margin-top: 24pt;
 }
 
-#subtitle, #title { color: #333; }
+#subtitle, #title { color: #46DE87; }
 
 #subtitle {
   font-size: 24pt;
