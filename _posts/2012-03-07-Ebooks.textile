@@ -1,0 +1,15 @@
+layout: post
+title: eBook User Experience
+---
+
+h1. {{ page.title }}
+
+I often say that if I become a millionaire, I am going to have a library filled with Kindles. Each one is going to have a single book on it. And I'll hire a librarian for this private library, too. Because books aren't meant to be merely read. They're meant to be admired. They're meant to show off to your friends and your enemies. They're meant to remind you, every day, how you would read that copy of _Plato's Republic_ featured prominently in your living room if it weren't featured so prominently in your living room.
+
+That's what's missing from the Kindle. How does one subtly announce to the world they're reading _Infinite Jest_ for the fourth time? How do fellow readers-cum-passers-by judge perfect-strangers-cum-public-readers in a park or at the beach?
+
+Oh but Kindle ownership is itself a statement of status you say? Bullshit. Kindles are cheap and if you want credit for pretending to read War and Peace, you have to earn it by lugging that thing everywhere for a summer.
+
+Much has been said about how a book distributes its weight in your hand. How it smells like victory when you buy it new, flip through it, and put it prominently on your living room bookcase. When I see a Kindle at someone's house, I don't think "oh, he's pretending to be well read, too." I think, "I bet that thing is full of romance novels and the Twighlight series."
+
+So that's why I've decided to add something to my plan as a millionaire. I'm going to hire artists to paint the cover of each book on the back of each Kindle in my library. That way, people will know just how dedicated I am to this particular farce.
