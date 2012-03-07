@@ -3,12 +3,29 @@
  <title>Alex Payne</title>
  <link href="http://al3x.net/atom.xml" rel="self"/>
  <link href="http://al3x.net/"/>
- <updated>2012-03-03T16:02:01-06:00</updated>
+ <updated>2012-03-07T12:44:47-06:00</updated>
  <id>http://al3x.net/</id>
  <author>
    <name>Alex Payne</name>
    <email>al3x@al3x.net</email>
  </author>
+ 
+ <entry>
+   <title>eBook User Experience</title>
+   <link href="http://al3x.net/2012/03/07/Ebooks.html"/>
+   <updated>2012-03-07T00:00:00-06:00</updated>
+   <id>http://al3x.net/2012/03/07/Ebooks</id>
+   <content type="html">&lt;h1&gt;eBook User Experience&lt;/h1&gt;
+&lt;p&gt;I often say that if I become a millionaire, I am going to have a library filled with Kindles. Each one is going to have a single book on it. And I&amp;#8217;ll hire a librarian for this private library, too. Because books aren&amp;#8217;t meant to be merely read. They&amp;#8217;re meant to be admired. They&amp;#8217;re meant to show off to your friends and your enemies. They&amp;#8217;re meant to remind you, every day, how you would read that copy of &lt;em&gt;Plato&amp;#8217;s Republic&lt;/em&gt; featured prominently in your living room if it weren&amp;#8217;t featured so prominently in your living room.&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s what&amp;#8217;s missing from the Kindle. How does one subtly announce to the world they&amp;#8217;re reading &lt;em&gt;Infinite Jest&lt;/em&gt; for the fourth time? How do fellow readers-cum-passers-by judge perfect-strangers-cum-public-readers in a park or at the beach?&lt;/p&gt;
+&lt;p&gt;Oh but Kindle ownership is itself a statement of status you say? Bullshit. Kindles are cheap and if you want credit for pretending to read War and Peace, you have to earn it by lugging that thing everywhere for a summer.&lt;/p&gt;
+&lt;p&gt;Much has been said about how a book distributes its weight in your hand. How it smells like victory when you buy it new, flip through it, and put it prominently on your living room bookcase. When I see a Kindle at someone&amp;#8217;s house, I don&amp;#8217;t think &amp;#8220;oh, he&amp;#8217;s pretending to be well read, too.&amp;#8221; I think, &amp;#8220;I bet that thing is full of romance novels and the Twighlight series.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;So that&amp;#8217;s why I&amp;#8217;ve decided to add something to my plan as a millionaire. I&amp;#8217;m going to hire artists to paint the cover of each book on the back of each Kindle in my library. That way, people will know just how dedicated I am to this particular farce.&lt;/p&gt;</content>
+   <author>
+     <name>Alex Payne</name>
+     <uri>http://al3x.net/about.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>Brett</title>
