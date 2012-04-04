@@ -3,12 +3,61 @@
  <title>Alex Payne</title>
  <link href="http://al3x.net/atom.xml" rel="self"/>
  <link href="http://al3x.net/"/>
- <updated>2012-03-07T12:44:47-06:00</updated>
+ <updated>2012-04-03T21:46:08-05:00</updated>
  <id>http://al3x.net/</id>
  <author>
    <name>Alex Payne</name>
    <email>al3x@al3x.net</email>
  </author>
+ 
+ <entry>
+   <title>Reasonable Defaults for Programmers</title>
+   <link href="http://al3x.net/2012/04/03/Reasonable-Defaults.html"/>
+   <updated>2012-04-03T00:00:00-05:00</updated>
+   <id>http://al3x.net/2012/04/03/Reasonable-Defaults</id>
+   <content type="html">&lt;h1&gt;Reasonable Defaults for Programmers&lt;/h1&gt;
+&lt;p&gt;It&amp;#8217;s well known that all programmers hate all other programmer&amp;#8217;s code.&lt;br /&gt;
+Given sufficient time, all programmers also eventually begin to hate&lt;br /&gt;
+their own code. This is life.&lt;/p&gt;
+&lt;p&gt;There&amp;#8217;s a particular attitude among haters of other people&amp;#8217;s code.&lt;br /&gt;
+A programmer believes his or her standard of writing code is&lt;br /&gt;
+best. They use unit tests or some new design pattern or whatever makes&lt;br /&gt;
+them feel special or better than lesser programmers. They actively pick&lt;br /&gt;
+out the flaws of the code written by others. To them, the world should&lt;br /&gt;
+be defaulted to their standards, and when they find it is not, they&lt;br /&gt;
+become assholes to the world.&lt;/p&gt;
+&lt;p&gt;I have spent some time wondering what causes this unreasonable default&lt;br /&gt;
+behavior. Why, instead of working to improve ones self and ones team and&lt;br /&gt;
+ones community, is it so often easier to merely point to flaws?&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m not the first to notice this phenomena by any means. The Buddha&amp;#8217;s&lt;br /&gt;
+first discourse describes it in the first two Noble Truths:&lt;/p&gt;
+&lt;p&gt;The first Noble Truth of dukkha: There is a basic unsatisfactoriness&lt;br /&gt;
+pervading all existence, in all forms of life. Some Westerners call this&lt;br /&gt;
+&amp;#8220;suffering&amp;#8221; but it covers more surface area than that. All things are&lt;br /&gt;
+constantly in motion. Constantly changing. Constantly causing friction.&lt;br /&gt;
+Before we acknowledge the second truth.&lt;/p&gt;
+&lt;p&gt;The second Noble Truth is the origin of dukkha: We are conditioned by&lt;br /&gt;
+ignorance to seek out objects and experience that cause pleasure, to&lt;br /&gt;
+dominate and control and manipulate our world and to avoid painful&lt;br /&gt;
+situations. The objects of our attachment are transient things.&lt;br /&gt;
+Eventually they will lose their luster and suffering will follow. We&lt;br /&gt;
+delude ourselves into thinking we are singular beings, islands removed&lt;br /&gt;
+from the rest of humanity, the rest of life. This delusion ignores the&lt;br /&gt;
+truth that we are all merely part of a continuing universe.&lt;/p&gt;
+&lt;p&gt;But there is a way out of the woods, I would think. And it comes through&lt;br /&gt;
+dispassion. Some have said it&amp;#8217;s as simple as &amp;#8220;give it five minutes.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;The third Noble Truth is the truth that the cessation of dukkha is&lt;br /&gt;
+ultimately attainable. We can cease suffering. The Buddhists call this&lt;br /&gt;
+nirodha, which is the unmaking of craving and attachment. We can attain&lt;br /&gt;
+nirvana through dispassion.&lt;/p&gt;
+&lt;p&gt;The fourth Noble Truth is the cessation of dukkha. Through a gradual&lt;br /&gt;
+path of self-improvement, described as the Eightfold Path, we can mind&lt;br /&gt;
+the middle path between self-indulgence and self-mortification.&lt;/p&gt;</content>
+   <author>
+     <name>Alex Payne</name>
+     <uri>http://al3x.net/about.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>eBook User Experience</title>
