@@ -1,0 +1,52 @@
+---
+layout: post
+title: Reasonable Defaults for Programmers
+---
+
+h1. {{ page.title }}
+
+It's well known that all programmers hate all other programmer's code.
+Given sufficient time, all programmers also eventually begin to hate
+their own code. This is life. 
+
+There's a particular attitude among haters of other people's code.
+A programmer believes his or her standard of writing code is
+best. They use unit tests or some new design pattern or whatever makes
+them feel special or better than lesser programmers. They actively pick
+out the flaws of the code written by others. To them, the world should
+be defaulted to their standards, and when they find it is not, they
+become assholes to the world. 
+
+I have spent some time wondering what causes this unreasonable default
+behavior. Why, instead of working to improve ones self and ones team and
+ones community, is it so often easier to merely point to flaws?
+
+I'm not the first to notice this phenomena by any means. The Buddha's
+first discourse describes it in the first two Noble Truths:
+
+The first Noble Truth of dukkha: There is a basic unsatisfactoriness
+pervading all existence, in all forms of life. Some Westerners call this
+"suffering" but it covers more surface area than that. All things are
+constantly in motion. Constantly changing. Constantly causing friction.
+Before we acknowledge the second truth. 
+
+The second Noble Truth is the origin of dukkha: We are conditioned by
+ignorance to seek out objects and experience that cause pleasure, to
+dominate and control and manipulate our world and to avoid painful
+situations. The objects of our attachment are transient things.
+Eventually they will lose their luster and suffering will follow. We
+delude ourselves into thinking we are singular beings, islands removed
+from the rest of humanity, the rest of life. This delusion ignores the
+truth that we are all merely part of a continuing universe.
+
+But there is a way out of the woods, I would think. And it comes through
+dispassion. Some have said it's as simple as "give it five minutes."
+
+The third Noble Truth is the truth that the cessation of dukkha is
+ultimately attainable. We can cease suffering. The Buddhists call this
+nirodha, which is the unmaking of craving and attachment. We can attain
+nirvana through dispassion.
+
+The fourth Noble Truth is the cessation of dukkha. Through a gradual
+path of self-improvement, described as the Eightfold Path, we can mind
+the middle path between self-indulgence and self-mortification.
