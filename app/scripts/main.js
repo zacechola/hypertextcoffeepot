@@ -99,8 +99,6 @@ function lol() {
     // Manipulate that DOM
     function manipulateDatDOM(data) {
 
-        console.log(data);
-
         var imageUrl = data.image_url,
             image_sm = data.image_400_url,
             url = data.url,
@@ -115,7 +113,6 @@ function lol() {
 
         // Drop in event listener for clicky of imagey
         $('.media').click(function() {
-            console.log(this._currentBrowser);
             $(this).find('img').addClass('animate moveImg auto-cursor');
             $(this).addClass('animate shrinkLeft auto-cursor');
             $('img').bind("animationend webkitAnimationEnd MSAnimationEnd", function(){
