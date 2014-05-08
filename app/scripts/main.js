@@ -117,7 +117,7 @@ function lol() {
             $(this).addClass('animate shrinkLeft auto-cursor');
             $('img').bind("animationend webkitAnimationEnd MSAnimationEnd", function(){
                 // When the animation has ended, load in some info
-                var template = '<h2><a href="' + url + '">' + title + '</a></h2><p>' + desc + '</p><p>Artwork by: <a href="' + playerUrl + '">' + playerName + '</a></p>';
+                var template = '<div class="animate fadeIn"><h2><a href="' + url + '">' + title + '</a></h2><p>' + desc + '</p><p>Artwork by: <a href="' + playerUrl + '">' + playerName + '</a></p></div>';
                 $('.content').append(template);
             });
         });
