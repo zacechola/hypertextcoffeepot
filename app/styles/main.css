@@ -49,6 +49,7 @@ body {
   border-radius: 50%;
   border: 10px solid #fafafa;
   box-shadow: 0px 15px 20px #ccc;
+  cursor: pointer;
 }
 
 .media img {
@@ -110,6 +111,9 @@ body {
   animation-delay: 3000ms;
 }
 
+.auto-cursor {
+    cursor: auto;
+}
 
 @-webkit-keyframes fadeIn {
   0% {
@@ -173,7 +177,7 @@ body {
 }
 
 
-@-webkit-keyframes fadeInUp{
+@-webkit-keyframes fadeInUp {
   0% {
     opacity: 0;
     -webkit-transform: translateY(2000px);
@@ -203,6 +207,40 @@ body {
   }
 }
 
+@-webkit-keyframes moveImg {
+    100% {
+        -webkit-transform: translateX(-1200px);
+        -ms-transform: translateX(-1200px);
+        transform: translateX(-1200px);
+
+        -webkit-transform: translateY(-300px);
+        -ms-transform: translateY(-300px);
+        transform: translateY(-300px);
+
+
+    }
+}
+
+@keyframes moveImg {
+    100% {
+        -webkit-transform: translateX(-1200px);
+        -ms-transform: translateX(-1200px);
+        transform: translateX(-1200px);
+
+        -webkit-transform: translateY(-300px);
+        -ms-transform: translateY(-300px);
+        transform: translateY(-300px);
+
+
+    }
+}
+
+.moveImg {
+    -webkit-animation-name: moveImg;
+    animation-name: moveImg;
+}
+
+
 
 .fadeIn {
   -webkit-animation-name: fadeIn;
@@ -218,6 +256,33 @@ body {
 .fadeInUp {
   -webkit-animation-name: fadeInUp;
   animation-name: fadeInUp;
+}
+
+@-webkit-keyframes shrinkLeft {
+    100% {
+        -webkit-transform: translateX(-290px);
+        -ms-transform: translateX(-290px);
+        transform: translateX(-290px);
+        height: 200px;
+        width: 200px;
+        border-radius: 0;
+    }
+}
+
+@keyframes shrinkLeft {
+    100% {
+        -webkit-transform: translateX(-290px);
+        -ms-transform: translateX(-290px);
+        transform: translateX(-290px);
+        height: 200px;
+        width: 200px;
+        border-radius: 0;
+    }
+}
+
+.shrinkLeft {
+    -webkit-animation-name: shrinkLeft;
+    animation-name: shrinkLeft;
 }
 
 

@@ -78,3 +78,12 @@ $(document).ready(function() {
     console.log(data);
   });
 });
+
+
+$('.media').click(function() {
+    $(this).find('img').addClass('animate moveImg auto-cursor');
+    $(this).addClass('animate shrinkLeft auto-cursor');
+    $(this).bind("animationend webkitAnimationEnd oAnimationEnd MSAnimationEnd", function(){
+        console.log('animation ended!');
+    });
+});
