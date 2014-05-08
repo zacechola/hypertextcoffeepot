@@ -29,6 +29,8 @@ body {
   margin-top: 5px;
 }
 
+h2 { margin-top: 0; }
+
 .footer {
     position: fixed;
     bottom: 5px;
@@ -209,28 +211,24 @@ body {
 
 @-webkit-keyframes moveImg {
     100% {
-        -webkit-transform: translateX(-1200px);
-        -ms-transform: translateX(-1200px);
-        transform: translateX(-1200px);
+        -webkit-transform: translateX(-190px);
+        -ms-transform: translateX(-190px);
+        transform: translateX(-190px);
 
-        -webkit-transform: translateY(-300px);
-        -ms-transform: translateY(-300px);
-        transform: translateY(-300px);
-
-
+        -webkit-transform: translateY(-190px);
+        -ms-transform: translateY(-190px);
+        transform: translateY(-190px);
     }
 }
 
 @keyframes moveImg {
     100% {
-        -webkit-transform: translateX(-1200px);
-        -ms-transform: translateX(-1200px);
-        transform: translateX(-1200px);
-
-        -webkit-transform: translateY(-300px);
-        -ms-transform: translateY(-300px);
-        transform: translateY(-300px);
-
+        -webkit-transform: translateX(-190px);
+        -ms-transform: translateX(-190px);
+        transform: translateX(-190px);
+        -webkit-transform: translateY(-190px);
+        -ms-transform: translateY(-190px);
+        transform: translateY(-190px);
 
     }
 }
